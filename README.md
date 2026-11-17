@@ -13,11 +13,12 @@ Software Engineer with 3+ years of experience building backend and distributed s
 - **Cloud and tools:** AWS, GCP, OCI, Docker, Git
 - **Exploring:** Applied AI, RAG pipelines and LLM agents, through small hands-on projects
 
-## Featured projects
+## Featured work
 
-- **Real-time status dashboard:** Unified status dashboard for 40+ tech services, built with Next.js and TypeScript
-- **Ticket Booking CLI:** A command line ticket booking application written in Go
-- **BLE heart-rate monitor:** SwiftUI app using CoreBluetooth behind a protocol, with an AsyncStream bridge and a unit-tested parser
+- **Monolith to microservices migration:** Broke a monolith into 12+ microservices running at 99.95% uptime. Release time dropped from 2 hours to 12 minutes, and deployment velocity rose 300%
+- **AI memory for support agents:** Built long-term memory for AI agents using embeddings and vector search (RAG). Answer accuracy on real support sessions rose from 67% to 92%
+- **Real-time stream processing:** Built a Kafka based stream engine to process high-volume events with low latency for downstream services
+- **Performance at scale:** Cut semantic search latency from 3.2s to 180ms with match rate up 28%, and API response time from 2.3s to 285ms with a 94% cache hit rate
 
 ## Open source
 
